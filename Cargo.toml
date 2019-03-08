@@ -1,8 +1,19 @@
 [package]
 name = "ms"
 version = "0.1.0"
-authors = ["Sotatek-DucPham <duc.pham@sotatek.com>"]
+authors = ["nesso99 <ducpham6677@gmail.com>"]
 edition = "2018"
+description = "A Rust version of Tiny milisecond conversion utility"
+license="MIT"
+documentation = "https://github.com/nesso99/ms-rust"
+homepage = "https://github.com/nesso99/ms-rust"
+repository = "https://github.com/nesso99/ms-rust"
+readme = "README.md"
+keywords = ["ms"]
+categories = ["date-and-time"]
 
 [dependencies]
 regex = "1.1.2"
+
+[badges]
+travis-ci = { repository = "nesso99/ms-rust", branch = "master" }
