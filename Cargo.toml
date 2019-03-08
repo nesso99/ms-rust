@@ -1,6 +1,6 @@
 [package]
 name = "ms"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["nesso99 <ducpham6677@gmail.com>"]
 edition = "2018"
 description = "A Rust version of Tiny milisecond conversion utility"
