@@ -1,0 +1,8 @@
+[package]
+name = "ms"
+version = "0.1.0"
+authors = ["Sotatek-DucPham <duc.pham@sotatek.com>"]
+edition = "2018"
+
+[dependencies]
+regex = "1.1.2"
